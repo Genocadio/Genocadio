@@ -10,7 +10,7 @@
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Genocadio&icon=3&color=2)](https://visitcount.itsvg.in)
